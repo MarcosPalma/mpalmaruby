@@ -12,6 +12,8 @@ puts 800/270.to_f
 #ponerle en digitos un numero
 print 356.digits
 print 78905.digits
+
+
 #redondear un numero flotante
 puts 5609.78203.round
 puts 5609.78203.to_i
