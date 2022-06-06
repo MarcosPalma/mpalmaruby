@@ -2,7 +2,7 @@ puts "----------------------Bienvenido al juego piedra, papel o tijeras---------
 #--------Ingreso de datos
 print "ingresa piedra, papel o tijeras "
 jugador = gets.chomp
-
+#---------- Elección jugador
 if jugador == "piedra"
     puts "jugador juega piedra"
 elsif jugador == "papel"
